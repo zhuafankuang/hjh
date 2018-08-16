@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>凤凰网-颜色选择器</title>
+<title>颜色选择器</title>
 </head>
 <link rel="stylesheet" type="text/css" href="spectrum.css">
 <script type="text/javascript" src="jquery.min.js"></script>
